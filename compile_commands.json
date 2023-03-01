@@ -1,0 +1,67 @@
+[
+{
+  "directory": "/home/wsz/lodge/build",
+  "command": "/usr/bin/g++ -I/home/wsz/lodge/. -I/home/wsz/lodge/.. -I/home/wsz/lodge/third_party  -O3 -Wall -g -ggdb -mrtm -msse4.1 -mavx2 -std=gnu++17 -o CMakeFiles/btree.dir/test/main.cpp.o -c /home/wsz/lodge/test/main.cpp",
+  "file": "/home/wsz/lodge/test/main.cpp"
+},
+{
+  "directory": "/home/wsz/lodge/build",
+  "command": "/usr/bin/g++ -I/home/wsz/lodge/. -I/home/wsz/lodge/.. -I/home/wsz/lodge/third_party  -O3 -Wall -g -ggdb -mrtm -msse4.1 -mavx2 -std=gnu++17 -o CMakeFiles/btree.dir/src/mempool.cc.o -c /home/wsz/lodge/src/mempool.cc",
+  "file": "/home/wsz/lodge/src/mempool.cc"
+},
+{
+  "directory": "/home/wsz/lodge/build",
+  "command": "/usr/bin/g++ -I/home/wsz/lodge/. -I/home/wsz/lodge/.. -I/home/wsz/lodge/third_party  -O3 -Wall -g -ggdb -mrtm -msse4.1 -mavx2 -std=gnu++17 -o CMakeFiles/btree.dir/src/nvm-common.cc.o -c /home/wsz/lodge/src/nvm-common.cc",
+  "file": "/home/wsz/lodge/src/nvm-common.cc"
+},
+{
+  "directory": "/home/wsz/lodge/build",
+  "command": "/usr/bin/g++ -I/home/wsz/lodge/. -I/home/wsz/lodge/.. -I/home/wsz/lodge/third_party  -O3 -Wall -g -ggdb -mrtm -msse4.1 -mavx2 -std=gnu++17 -o CMakeFiles/btree.dir/src/betree_single.cpp.o -c /home/wsz/lodge/src/betree_single.cpp",
+  "file": "/home/wsz/lodge/src/betree_single.cpp"
+},
+{
+  "directory": "/home/wsz/lodge/build",
+  "command": "/usr/bin/g++ -I/home/wsz/lodge/. -I/home/wsz/lodge/.. -I/home/wsz/lodge/third_party  -O3 -Wall -g -ggdb -mrtm -msse4.1 -mavx2 -std=gnu++17 -o CMakeFiles/lodge.dir/test/lodge_test.cpp.o -c /home/wsz/lodge/test/lodge_test.cpp",
+  "file": "/home/wsz/lodge/test/lodge_test.cpp"
+},
+{
+  "directory": "/home/wsz/lodge/build",
+  "command": "/usr/bin/g++ -I/home/wsz/lodge/. -I/home/wsz/lodge/.. -I/home/wsz/lodge/third_party  -O3 -Wall -g -ggdb -mrtm -msse4.1 -mavx2 -std=gnu++17 -o CMakeFiles/lodge.dir/src/mempool.cc.o -c /home/wsz/lodge/src/mempool.cc",
+  "file": "/home/wsz/lodge/src/mempool.cc"
+},
+{
+  "directory": "/home/wsz/lodge/build",
+  "command": "/usr/bin/g++ -I/home/wsz/lodge/. -I/home/wsz/lodge/.. -I/home/wsz/lodge/third_party  -O3 -Wall -g -ggdb -mrtm -msse4.1 -mavx2 -std=gnu++17 -o CMakeFiles/lodge.dir/src/nvm-common.cc.o -c /home/wsz/lodge/src/nvm-common.cc",
+  "file": "/home/wsz/lodge/src/nvm-common.cc"
+},
+{
+  "directory": "/home/wsz/lodge/build",
+  "command": "/usr/bin/g++ -I/home/wsz/lodge/. -I/home/wsz/lodge/.. -I/home/wsz/lodge/third_party  -O3 -Wall -g -ggdb -mrtm -msse4.1 -mavx2 -std=gnu++17 -o CMakeFiles/lodge.dir/src/betree_single.cpp.o -c /home/wsz/lodge/src/betree_single.cpp",
+  "file": "/home/wsz/lodge/src/betree_single.cpp"
+},
+{
+  "directory": "/home/wsz/lodge/build",
+  "command": "/usr/bin/g++ -I/home/wsz/lodge/. -I/home/wsz/lodge/.. -I/home/wsz/lodge/third_party  -O3 -Wall -g -ggdb -mrtm -msse4.1 -mavx2 -std=gnu++17 -o CMakeFiles/betree.dir/test/test.cpp.o -c /home/wsz/lodge/test/test.cpp",
+  "file": "/home/wsz/lodge/test/test.cpp"
+},
+{
+  "directory": "/home/wsz/lodge/build",
+  "command": "/usr/bin/g++ -I/home/wsz/lodge/. -I/home/wsz/lodge/.. -I/home/wsz/lodge/third_party  -O3 -Wall -g -ggdb -mrtm -msse4.1 -mavx2 -std=gnu++17 -o CMakeFiles/betree.dir/src/mempool.cc.o -c /home/wsz/lodge/src/mempool.cc",
+  "file": "/home/wsz/lodge/src/mempool.cc"
+},
+{
+  "directory": "/home/wsz/lodge/build",
+  "command": "/usr/bin/g++ -I/home/wsz/lodge/. -I/home/wsz/lodge/.. -I/home/wsz/lodge/third_party  -O3 -Wall -g -ggdb -mrtm -msse4.1 -mavx2 -std=gnu++17 -o CMakeFiles/betree.dir/src/nvm-common.cc.o -c /home/wsz/lodge/src/nvm-common.cc",
+  "file": "/home/wsz/lodge/src/nvm-common.cc"
+},
+{
+  "directory": "/home/wsz/lodge/build",
+  "command": "/usr/bin/g++ -I/home/wsz/lodge/. -I/home/wsz/lodge/.. -I/home/wsz/lodge/third_party  -O3 -Wall -g -ggdb -mrtm -msse4.1 -mavx2 -std=gnu++17 -o CMakeFiles/betree.dir/src/betree_single.cpp.o -c /home/wsz/lodge/src/betree_single.cpp",
+  "file": "/home/wsz/lodge/src/betree_single.cpp"
+},
+{
+  "directory": "/home/wsz/lodge/build",
+  "command": "/usr/bin/g++  -O3 -Wall -g -ggdb -mrtm -msse4.1 -mavx2 -std=gnu++17 -o CMakeFiles/workload.dir/test/workload.cpp.o -c /home/wsz/lodge/test/workload.cpp",
+  "file": "/home/wsz/lodge/test/workload.cpp"
+}
+]

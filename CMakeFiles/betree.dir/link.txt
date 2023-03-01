@@ -1,0 +1,1 @@
+/usr/bin/c++  -O3 -Wall -mrtm -msse4.1 -mavx2 CMakeFiles/betree.dir/test/test.cpp.o CMakeFiles/betree.dir/src/mempool.cc.o "CMakeFiles/betree.dir/src/nvm-common.cc.o" CMakeFiles/betree.dir/src/betree_single.cpp.o -o betree  -lpmem -lpmemobj -lpthread 

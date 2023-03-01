@@ -1,0 +1,1 @@
+/usr/bin/c++  -O3 -Wall -mrtm -msse4.1 -mavx2 CMakeFiles/lodge.dir/test/lodge_test.cpp.o CMakeFiles/lodge.dir/src/mempool.cc.o "CMakeFiles/lodge.dir/src/nvm-common.cc.o" CMakeFiles/lodge.dir/src/betree_single.cpp.o -o lodge  -lpmem -lpmemobj -lpthread 
