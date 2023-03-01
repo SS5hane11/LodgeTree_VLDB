@@ -1,1 +1,0 @@
-/usr/bin/c++  -O3 -Wall -mrtm -msse4.1 -mavx2 CMakeFiles/workload.dir/test/workload.cpp.o -o workload 
