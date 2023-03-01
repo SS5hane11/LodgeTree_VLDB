@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "*.tcc": "cpp",
+        "shared_mutex": "cpp"
+    }
+}
